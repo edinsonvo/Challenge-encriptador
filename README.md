@@ -36,22 +36,22 @@
 
 >Desktop
 >
->![Desktop](https://github.com/edinsonvo/Challenge_encriptador/Preview/Escritorio.png)
+>![Desktop](https://github.com/edinsonvo/Challenge-encriptador/blob/main/imagenes/Preview/Escritorio.png)
 
 <br>
 
 >Tablet
 >
->![Tablet](https://github.com/edinsonvo/Challenge_encriptador/Preview/Tablet.png)
+>![Tablet](https://github.com/edinsonvo/Challenge-encriptador/blob/main/imagenes/Preview/Tablet.png)
 
 <br>
 
 >Smartphone
 >
->![Smartphone](https://github.com/edinsonvo/Challenge_encriptador/Preview/Phone.png)
+>![Smartphone](https://github.com/edinsonvo/Challenge-encriptador/blob/main/imagenes/Preview/Phone.png)
 
 <br>
 
 ## link del proyecto
 
-Da click [Aquí](https://github.com/edinsonvo/Challenge_encriptador).
+Da click [Aquí](https://github.com/edinsonvo/Challenge-encriptador/tree/main).
