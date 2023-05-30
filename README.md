@@ -42,13 +42,13 @@
 
 >Tablet
 >
->![Tablet](https://github.com/edinsonvo/Challenge-encriptador/blob/main/imagenes/Preview/Tablet.png)
+>![Tablet](https://github.com/edinsonvo/Challenge-encriptador/blob/main/imagenes/Preview/Tablet.PNG)
 
 <br>
 
 >Smartphone
 >
->![Smartphone](https://github.com/edinsonvo/Challenge-encriptador/blob/main/imagenes/Preview/Phone.png)
+>![Smartphone](https://github.com/edinsonvo/Challenge-encriptador/blob/main/imagenes/Preview/Phone.PNG)
 
 <br>
 
